@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "npm i",
+    "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "author": "",
